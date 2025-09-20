@@ -14,10 +14,10 @@ I build **scalable, high-performance web applications** with a focus on **Next.j
 
 ## 🛠️ Technical Skills
 
-**Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3
-**Frontend:** ReactJS, Next.js, TailwindCSS, Redux, Context API, Pinia
-**Backend:** Node.js, Express.js, NestJS, MongoDB, GraphQL, REST APIs
-**Performance & DevOps:** SSG, SSR, ISR, CDN caching, AWS S3, Queues, Web Workers, CI/CD
+**Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3  <br>
+**Frontend:** ReactJS, Next.js, TailwindCSS, Redux, Context API, Pinia  <br>
+**Backend:** Node.js, Express.js, NestJS, MongoDB, GraphQL, REST APIs  <br>
+**Performance & DevOps:** SSG, SSR, ISR, CDN caching, AWS S3, Queues, Web Workers, CI/CD  <br>
 **Other:** Responsive Design, Figma, WebAssembly, Unit Testing (Jest)
 
 ---
