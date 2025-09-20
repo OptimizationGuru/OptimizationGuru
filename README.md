@@ -74,7 +74,8 @@ I build **scalable, high-performance web applications** with a focus on **Next.j
 
 ## 🌟 Visitor Counter & Fun Stats
 
-![Visitor Count](https://profile-counter.glitch.me/OptimizationGuru/count.svg)
+![Profile Views](https://img.shields.io/badge/Profile_Views-25.3k-brightgreen)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OptimizationGuru\&theme=radical)
 
 ---
