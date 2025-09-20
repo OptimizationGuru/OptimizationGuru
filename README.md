@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Shivam Tiwari
 
-Senior Frontend Engineer | IIT Guwahati Alumnus
+**Senior Frontend Engineer** | **IIT Guwahati Alumnus** <br>
 Bengaluru, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shivam-tiwari-iitg)
