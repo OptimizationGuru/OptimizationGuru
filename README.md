@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivam Tiwari
 
-<!--
-**OptimizationGuru/OptimizationGuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Full Stack Developer | IIT Guwahati Alumnus
 
-Here are some ideas to get you started:
+💻 Passionate about building scalable web applications using React, Next.js, and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Frontend:** React, Next.js, TailwindCSS
+- **Backend:** Node.js, NestJS
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools:** Docker, Git, CI/CD
+
+### 🚀 Key Projects
+
+- **[clip-craft](https://github.com/OptimizationGuru/clip-craft):** A clipboard manager built with JavaScript.
+- **[HustleSpot](https://github.com/OptimizationGuru/HustleSpot):** A task management application developed using TypeScript.
+- **[createmate](https://github.com/OptimizationGuru/createmate):** A project collaboration tool built with JavaScript.
+
+### 🏆 Achievements
+
+- Reduced onboarding time by 30% at Yuma Energy through the development of the 3W Onboarding Module.
+- Spearheaded the creation of a KML-to-H3 parser, enabling geographic expansion worth INR 10M+.
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/shivamtiwari/)
+- [Personal Website](https://thesoftwareengineer.co/)
